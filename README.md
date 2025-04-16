@@ -13,8 +13,8 @@
 
 # 🛠️ Projects
  </a>  
-   <a href="https://docs.python.org/3/tutorial/index.html">
-    <img src="https://github.com/user-attachments/assets/0081ab51-0fcd-4bf8-be84-1b24b2d6812a" alt="PS Logo" width="40">
+   <a href="https://github.com/Five-Clover/Predator-Sense">
+    <img src="https://github.com/user-attachments/assets/0081ab51-0fcd-4bf8-be84-1b24b2d6812a" alt="PS Logo" width="70">
      
    </a> 
 
