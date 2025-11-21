@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Hi there! Welcome to my GitHub Profile
+
+I'm **Dhanush Anil Kumar**, a passionate developer focused on building clean, efficient, and scalable applications. I love exploring backend technologies, particularly Java, Spring Boot, and system design.
 
 # 💻 Languages
 <p >
@@ -21,4 +23,24 @@
    <img src="https://github.com/user-attachments/assets/df0719f8-5b31-4f3a-b883-0da79abb0703" alt="Spring Logo" width="70" />
    </a> 
    
+
+
+---
+
+# 🚀 About Me
+
+* 🌱 Currently learning **Spring Boot**, **Game Development**, and **AI Model**.
+* 🧪 Love building backend systems and solving real-world infrastructure challenges.
+* 📚 Always exploring application monitoring, middleware, and scalable architectures.
+
+---
+
+# 📫 Contact
+
+* 📧 Email: **[dhanush28dev@gmail.com](mailto:dhanush28dev@gmail.com)**
+* 🔗 LinkedIn: [linkedin.com/in/dhanush-fxc](www.linkedin.com/in/dhanush-fxc)
+
+---
+
+Thanks for visiting! 😊
 
