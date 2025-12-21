@@ -16,16 +16,16 @@ I'm **Dhanush Anil Kumar**, a passionate developer focused on building clean, ef
 # 🛠️ Projects
  </a>  
    <a href="https://github.com/Five-Clover/Predator-Sense">
-    <img src="https://github.com/user-attachments/assets/0081ab51-0fcd-4bf8-be84-1b24b2d6812a" alt="PS Logo" width="70" height="70">
+    <img src="https://github.com/user-attachments/assets/0081ab51-0fcd-4bf8-be84-1b24b2d6812a" alt="PS Logo" width="125" height="125">
      
    </a> 
    <a href="https://github.com/Five-Clover/Springboot-Employee-Directory">
-   <img src="https://github.com/user-attachments/assets/df0719f8-5b31-4f3a-b883-0da79abb0703" alt="Spring Logo" width="70" />
+   <img src="https://github.com/user-attachments/assets/df0719f8-5b31-4f3a-b883-0da79abb0703" alt="Spring Logo" width="70"  />
    </a> 
 
    <a href="https://github.com/Five-Clover/MailSphere">
-  <img width="70" height="70" alt="icon16" src="https://github.com/user-attachments/assets/9a5daffe-ab53-47df-8e05-41c8bccb4f4a" />
-   </a> 
+  <img width="70"  height="62.2" alt="icon16" src="https://github.com/user-attachments/assets/9a5daffe-ab53-47df-8e05-41c8bccb4f4a" />
+   </a>  
    
 
 
